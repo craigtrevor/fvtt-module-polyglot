@@ -1,8 +1,8 @@
 {
-    "name": "polyglot",
+    "name": "polyglot-ffik",
     "title": "Polyglot",
     "description": "Talk to others using a language you can speak and scrambles text you can't understand, in several fantasy scripts.",
-    "version": "1.1.1",
+    "version": "1.0.0",
     "author": ["KaKaRoTo", "elizeuangelo"],
     "scripts": ["./polyglot.js"],
     "styles": ["./polyglot.css","./fonts.css"],
