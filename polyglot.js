@@ -263,7 +263,8 @@ class PolyGlot {
     setup() {
         switch (game.system.id) {
             case "dnd5e":
-                this.loadLanguages("forgottenrealms");
+                this.loadLanguages("ffik");
+                //this.loadLanguages("forgottenrealms");
                 break;
             case "pf1":
             case "pf2e":
