@@ -1,0 +1,30 @@
+{
+    "alphabets": {
+        "khadoran": "130% Thorass",
+        "cygnaran": "120% Tuzluca",
+        "khurzic": "120% Valmaric",
+        "ordic": "130% Reanaarian",
+        "llaelese": "130% MarasEye",
+        "caspian": "120% Tengwar",
+        "rhulic": "120% Dethek",
+        "shyr": "150% Espruar",
+        "urnyak": "250% Pulsian",
+        "tordoris": "130% Thassilonian",
+        "morgur": "120% MeroiticDemotic",
+        "draconic": "170% Iokharic",
+    },
+    "tongues": {
+        "_default": "khadoran",
+        "cygnaran": "cygnaran",
+        "khurzic": "khurzic",
+        "ordic": "ordic",
+        "llaelese": "llaelese",
+        "caspian": "caspian",
+        "rhulic": "rhulic",
+        "shyr": "shyr",
+        "urnyak": "urnyak",
+        "tordoris": "tordoris",
+        "morgur": "morgur",
+        "draconic": "draconic",
+    }
+}
